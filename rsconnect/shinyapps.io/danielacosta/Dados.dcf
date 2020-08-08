@@ -1,0 +1,12 @@
+name: Dados
+title: Dados
+username:
+account: danielacosta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2423266
+bundleId: 3240324
+url: https://danielacosta.shinyapps.io/Dados/
+when: 1591582931.51711
+asMultiple: FALSE
+asStatic: FALSE
